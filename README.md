@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📫 https://www.linkedin.com/in/anna-baldwin1/
+
 <!--
 **anniebalds/anniebalds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
