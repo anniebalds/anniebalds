@@ -3,7 +3,11 @@
 :computer: Ironhack Web Development Bootcamp (graduated February 2022, Paris :fr:) <br>
 📫 <a href='https://www.linkedin.com/in/anna-baldwin1/'>LinkedIn</a>
 
-### Project snippets
+### Bootcamp projects
+
+
+
+
 
 <!--
 **anniebalds/anniebalds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
