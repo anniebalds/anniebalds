@@ -1,7 +1,7 @@
 ## Hi there :cactus:
 
 :computer: Web Development Bootcamp (graduated February 2022, Ironhack Paris :fr:) <br>
-:mushroom: I enjoy yoga, crochet, festivals, cooking & film <br>
+:mushroom: I enjoy coding, yoga, crochet, festivals, cooking & film <br>
 📫 <a href='https://www.linkedin.com/in/anna-baldwin1/'>LinkedIn</a> 
 
 
