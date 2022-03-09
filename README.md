@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+:computer: February 2022 graduate of Ironhack Web Development bootcamp (Paris :fr:)
 📫 <a href='https://www.linkedin.com/in/anna-baldwin1/'>LinkedIn</a>
 
 <!--
