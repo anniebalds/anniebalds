@@ -2,6 +2,7 @@
 
 :computer: Ironhack Web Development Bootcamp (graduated February 2022, Paris :fr:) <br>
 📫 <a href='https://www.linkedin.com/in/anna-baldwin1/'>LinkedIn</a>
+:mushroom: Hobbies: yoga, crochet, festivals, cooking
 
 ## Bootcamp projects
 ### Artwhere: Node.js (Express), Handlebars, MongoDB, HTML, CSS
