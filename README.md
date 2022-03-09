@@ -2,7 +2,7 @@
 
 :mortar_board: Web Development Bootcamp (graduated February 2022, Ironhack Paris :fr:) <br>
 :computer: Full stack <br>
-:mushroom: I enjoy yoga, crochet, music festivals, cooking & film <br>
+:mushroom: I enjoy yoga, crochet, music festivals & film <br>
 📫 <a href='https://www.linkedin.com/in/anna-baldwin1/'>LinkedIn</a> 
 
 
