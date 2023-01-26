@@ -15,7 +15,7 @@
 ## Personal projects
 ### Paintagram: CSS clone
 ![Snip20230126_2](https://user-images.githubusercontent.com/92921877/214860630-450f0953-2cd0-4df5-96c1-cb697532f4bf.png)
-###it's on my list: React, Local Storage
+### it's on my list: React, Local Storage
 ![Snip20230126_3](https://user-images.githubusercontent.com/92921877/214861312-852a028c-244c-4442-b507-d4085c078a4c.png)
 
 
