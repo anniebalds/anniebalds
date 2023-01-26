@@ -12,6 +12,7 @@
 ### Bon Voyage: React, Node.js (Express), MongoDB, HTML, CSS
 ![Snip20220309_111](https://user-images.githubusercontent.com/92921877/157509062-7c1522b5-c81f-4269-b4df-8bbdfc5c4ed3.png)
 
+## Personal projects
 ### Paintagram: CSS clone
 ![Snip20230126_2](https://user-images.githubusercontent.com/92921877/214860630-450f0953-2cd0-4df5-96c1-cb697532f4bf.png)
 
