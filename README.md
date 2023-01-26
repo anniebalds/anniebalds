@@ -13,7 +13,7 @@
 ![Snip20220309_111](https://user-images.githubusercontent.com/92921877/157509062-7c1522b5-c81f-4269-b4df-8bbdfc5c4ed3.png)
 
 ## Personal projects
-### Paintagram: CSS clone
+### Paintagram: Instagram clone, CSS focus
 ![Snip20230126_2](https://user-images.githubusercontent.com/92921877/214860630-450f0953-2cd0-4df5-96c1-cb697532f4bf.png)
 ### it's on my list: React, Local Storage
 ![Snip20230126_3](https://user-images.githubusercontent.com/92921877/214861312-852a028c-244c-4442-b507-d4085c078a4c.png)
